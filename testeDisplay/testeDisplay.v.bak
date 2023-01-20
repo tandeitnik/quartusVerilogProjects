@@ -1,0 +1,23 @@
+module testeDisplay (key0, display, d);
+
+	input key0;
+	output reg display;
+	output reg [7:0] d;
+	
+	initial begin
+		d = 8'b11111111; //começa com o o display apagado
+		display = 1'b0; //para ativar o display
+	end
+	
+	always (posedge key0) begin
+	
+		case (d)
+			
+			8'b11111111: d = d << 8'd1;
+			default: d = (d << 8'd1) + 8'd1; //vou passar o 0 para a esquerda
+		
+		endcase
+	
+	end
+
+endmodule

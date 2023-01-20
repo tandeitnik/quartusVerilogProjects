@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto03/somadorCompleto.v
+source_file = 1, G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto03/db/projeto03.cbx.xml
+design_name = somadorCompleto
+instance = comp, \s~output , s~output, somadorCompleto, 1
+instance = comp, \cout~output , cout~output, somadorCompleto, 1
+instance = comp, \b~input , b~input, somadorCompleto, 1
+instance = comp, \cin~input , cin~input, somadorCompleto, 1
+instance = comp, \a~input , a~input, somadorCompleto, 1
+instance = comp, \s~0 , s~0, somadorCompleto, 1
+instance = comp, \cout~0 , cout~0, somadorCompleto, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1

@@ -1,0 +1,12 @@
+|fsm1
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+clk => state~5.DATAIN
+rst => state~7.DATAIN
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jan 16 19:09:38 2023
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : driver7seg
+Top-level Entity Name : driver7seg
+Family : Cyclone IV E
+Total logic elements : 29
+    Total combinational functions : 23
+    Dedicated logic registers : 12
+Total registers : 12
+Total pins : 22
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

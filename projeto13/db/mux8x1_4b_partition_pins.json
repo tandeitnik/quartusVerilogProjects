@@ -1,0 +1,165 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "f[0]",
+					"strict" : false
+				},
+				{
+					"name" : "f[1]",
+					"strict" : false
+				},
+				{
+					"name" : "f[2]",
+					"strict" : false
+				},
+				{
+					"name" : "f[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i6[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i7[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i6[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i7[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i6[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i7[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i6[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i7[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i3[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

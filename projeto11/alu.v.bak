@@ -1,0 +1,18 @@
+/*
+	alu.v
+	Unidade lógica aritmética com 8 operações
+*/
+
+module alu (a,b,s,f);
+
+	input [3:0] a,b;
+	input [2:0] s;
+	output [4:0] f;
+	
+	wire w0, w1, w2, w3, w4, w5, w6, w7;
+	
+	assign w0 = a+b;
+	assign w1 = a-b;
+	assign w2 = 
+
+endmodule

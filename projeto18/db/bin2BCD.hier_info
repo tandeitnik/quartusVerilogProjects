@@ -1,0 +1,37 @@
+|bin2BCD
+binary[0] => unidades[0].DATAIN
+binary[1] => LessThan6.IN8
+binary[1] => Add6.IN8
+binary[1] => unidades.DATAA
+binary[2] => LessThan4.IN8
+binary[2] => Add4.IN8
+binary[2] => unidades.DATAA
+binary[3] => LessThan2.IN8
+binary[3] => Add2.IN8
+binary[3] => unidades.DATAA
+binary[4] => LessThan1.IN8
+binary[4] => Add1.IN8
+binary[4] => unidades.DATAA
+binary[5] => LessThan0.IN6
+binary[5] => Add0.IN6
+binary[5] => unidades.DATAA
+binary[6] => LessThan0.IN5
+binary[6] => Add0.IN5
+binary[6] => unidades.DATAA
+binary[7] => LessThan0.IN4
+binary[7] => Add0.IN4
+binary[7] => unidades.DATAA
+centenas[0] <= dezenas.DB_MAX_OUTPUT_PORT_TYPE
+centenas[1] <= dezenas.DB_MAX_OUTPUT_PORT_TYPE
+centenas[2] <= <GND>
+centenas[3] <= <GND>
+dezenas[0] <= unidades.DB_MAX_OUTPUT_PORT_TYPE
+dezenas[1] <= dezenas.DB_MAX_OUTPUT_PORT_TYPE
+dezenas[2] <= dezenas.DB_MAX_OUTPUT_PORT_TYPE
+dezenas[3] <= dezenas.DB_MAX_OUTPUT_PORT_TYPE
+unidades[0] <= binary[0].DB_MAX_OUTPUT_PORT_TYPE
+unidades[1] <= unidades.DB_MAX_OUTPUT_PORT_TYPE
+unidades[2] <= unidades.DB_MAX_OUTPUT_PORT_TYPE
+unidades[3] <= unidades.DB_MAX_OUTPUT_PORT_TYPE
+
+

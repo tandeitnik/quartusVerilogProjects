@@ -1,0 +1,14 @@
+/*
+	barrshift.v
+	Deslocador barrel a esquerda cuja entrada tem 8 bits e o seletor de deslocamento tem 3 bits
+*/
+
+module barrshift (a,sh,b);
+
+	input [7:0] a;
+	input [2:0] sh;
+	output [7:0] b;
+	
+	assign b = a << sh;
+
+endmodule

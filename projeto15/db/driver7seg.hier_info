@@ -1,0 +1,35 @@
+|driver7seg
+key0 => display[0]~reg0.CLK
+key0 => display[1]~reg0.CLK
+key0 => display[2]~reg0.CLK
+key0 => display[3]~reg0.CLK
+key0 => display[4]~reg0.CLK
+key0 => display[5]~reg0.CLK
+key0 => display[6]~reg0.CLK
+key0 => display[7]~reg0.CLK
+key1 => b[0]~reg0.CLK
+key1 => b[1]~reg0.CLK
+key1 => b[2]~reg0.CLK
+key1 => b[3]~reg0.CLK
+b[0] <= b[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+b[1] <= b[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+b[2] <= b[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+b[3] <= b[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+d[0] <= d[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+d[1] <= d[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+d[2] <= d[2]$latch.DB_MAX_OUTPUT_PORT_TYPE
+d[3] <= d[3]$latch.DB_MAX_OUTPUT_PORT_TYPE
+d[4] <= d[4]$latch.DB_MAX_OUTPUT_PORT_TYPE
+d[5] <= d[5]$latch.DB_MAX_OUTPUT_PORT_TYPE
+d[6] <= d[6]$latch.DB_MAX_OUTPUT_PORT_TYPE
+d[7] <= <VCC>
+display[0] <= display[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+display[1] <= display[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+display[2] <= display[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+display[3] <= display[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+display[4] <= display[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+display[5] <= display[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+display[6] <= display[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+display[7] <= display[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

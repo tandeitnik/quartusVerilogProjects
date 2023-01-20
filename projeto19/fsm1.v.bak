@@ -1,0 +1,26 @@
+module fsm1 (x,clk, rst, y);
+
+	input x, clk, rst;
+	output reg y;
+	
+	//Registrador de estado
+	reg [1:0] state; //como tem 4 estados, crio um registo com 2 bits
+	
+	//Codificação dos estados
+	parameter a = 2'd0, b = 2'bd1, c = 2'd2, d = 2'd3;
+	
+	//Inicialização da máquina
+	initial begin
+		state <= a; //já que é um circuito sequencial, irei usar atribuição não bloqueável
+		y <= 1'b0;
+	end
+	
+	//Primeiro procedimento - Estado próximo
+	always @(negedge clk, negedge rst) begin
+		//reset tem prioridade, então começo verificando ele
+		//como é sensível a borda de descida, então rst vale 0 se ele desceu
+		
+		
+	end
+
+endmodule

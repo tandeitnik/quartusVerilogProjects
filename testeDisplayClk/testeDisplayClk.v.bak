@@ -1,0 +1,14 @@
+module testeDisplayClk (clk, display);
+
+	input clk;
+	output reg [7:0] display;
+	
+	initial begin
+		display = 8'b11111111;
+	end
+	
+	always @(negedge clk) begin
+		display = 8'b01111111;
+	end
+
+endmodule

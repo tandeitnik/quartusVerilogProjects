@@ -1,0 +1,10 @@
+/*
+	mux8x1_4b.v
+	multiplexador 8x1 de 4 bits usando linguagem comportamental
+*/
+
+module mux8x1_4b ();
+
+	
+
+endmodule

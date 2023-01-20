@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto16/simulation/modelsim
+vregCargaParalela
+!s110 1673946540
+!i10b 1
+!s100 i:@__4^4J]5;8in8<aWnF0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Ibk9@M<TYDNUDShQADZb4N1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1673946312
+8G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto16/regCargaParalela.v
+FG:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto16/regCargaParalela.v
+!i122 0
+L0 6 21
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1673946540.000000
+!s107 G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto16/regCargaParalela.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto16|G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto16/regCargaParalela.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto16}
+tCvgOpt 0
+nreg@carga@paralela

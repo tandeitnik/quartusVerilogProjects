@@ -1,0 +1,11 @@
+/*
+	mux4x1.v
+	Multiplexador 4 entradas uma saída
+*/
+
+module mux4x1 (i,f);
+
+	input [3:0] i;
+	output
+
+endmodule

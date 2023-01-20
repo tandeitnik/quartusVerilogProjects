@@ -1,0 +1,10 @@
+/*
+	regCargaParalela.v
+	Flip-flop de 4-bits com entrada de ativação ld
+*/
+
+module regCargaParalela (d,clk,ld,q);
+
+	
+
+endmodule

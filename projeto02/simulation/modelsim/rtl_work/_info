@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/simulation/modelsim
+vsomador4bits
+!s110 1673458288
+!i10b 1
+!s100 EL<5omFT;5eG46SH]DW=A2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IG`Sa73D6;=jhBLHbn;BCK1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1673457556
+8G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/somador4bits.v
+FG:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/somador4bits.v
+!i122 1
+L0 9 16
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1673458288.000000
+!s107 G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/somador4bits.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02|G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/somador4bits.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work {+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02}
+Z6 tCvgOpt 0
+vsomadorCompleto
+!s110 1673458287
+!i10b 1
+!s100 IH9249OTV<[YSA6:LVR>l1
+R1
+IMcDDM:n1?QDzWBACAEb@31
+R2
+R0
+w1673456389
+8G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/somadorCompleto.v
+FG:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/somadorCompleto.v
+!i122 0
+L0 7 20
+R3
+r1
+!s85 0
+31
+!s108 1673458287.000000
+!s107 G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/somadorCompleto.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02|G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/somadorCompleto.v|
+!i113 1
+R4
+R5
+R6
+nsomador@completo

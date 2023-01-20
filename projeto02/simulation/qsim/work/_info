@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto02/simulation/qsim
+vhard_block
+Z1 !s110 1673456831
+!i10b 1
+!s100 mM58]NoG:BRlB=PC;ViTM3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IfV]@`Rmz_2dVRDP0;5<H]3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1673456830
+Z5 8projeto02.vo
+Z6 Fprojeto02.vo
+!i122 2
+L0 173 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1673456831.000000
+Z9 !s107 projeto02.vo|
+Z10 !s90 -work|work|projeto02.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vsomadorCompleto
+R1
+!i10b 1
+!s100 QALRU6Z4LR`3H87LJP9`P0
+R2
+IL]GL=SiM=kZEAX99om^D>2
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 32 140
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nsomador@completo
+vsomadorCompleto_vlg_vec_tst
+R1
+!i10b 1
+!s100 eNl[WU:Ua0=z]fTVgmnF>3
+R2
+IYkQ[<B[zecW9IfSUXNm8P0
+R3
+R0
+w1673456829
+8WaveformSomadorCompleto.vwf.vt
+FWaveformSomadorCompleto.vwf.vt
+!i122 3
+L0 30 48
+R7
+r1
+!s85 0
+31
+R8
+!s107 WaveformSomadorCompleto.vwf.vt|
+!s90 -work|work|WaveformSomadorCompleto.vwf.vt|
+!i113 1
+R11
+R12
+nsomador@completo_vlg_vec_tst

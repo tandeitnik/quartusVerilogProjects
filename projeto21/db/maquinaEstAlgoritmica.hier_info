@@ -1,0 +1,45 @@
+|maquinaEstAlgoritmica
+clk => tot[0]~reg0.CLK
+clk => tot[1]~reg0.CLK
+clk => tot[2]~reg0.CLK
+clk => tot[3]~reg0.CLK
+clk => tot[4]~reg0.CLK
+clk => tot[5]~reg0.CLK
+clk => tot[6]~reg0.CLK
+clk => tot[7]~reg0.CLK
+clk => state~5.DATAIN
+rst => tot[0]~reg0.ACLR
+rst => tot[1]~reg0.ACLR
+rst => tot[2]~reg0.ACLR
+rst => tot[3]~reg0.ACLR
+rst => tot[4]~reg0.ACLR
+rst => tot[5]~reg0.ACLR
+rst => tot[6]~reg0.ACLR
+rst => tot[7]~reg0.ACLR
+rst => state~7.DATAIN
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+x => state.OUTPUTSELECT
+value[0] => Add0.IN8
+value[1] => Add0.IN7
+value[2] => Add0.IN6
+value[3] => Add0.IN5
+value[4] => Add0.IN4
+value[5] => Add0.IN3
+value[6] => Add0.IN2
+value[7] => Add0.IN1
+tot[0] <= tot[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tot[1] <= tot[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tot[2] <= tot[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tot[3] <= tot[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tot[4] <= tot[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tot[5] <= tot[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tot[6] <= tot[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tot[7] <= tot[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

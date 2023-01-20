@@ -1,0 +1,30 @@
+|comparadorMagnitude4b
+a[0] => x.IN0
+a[0] => agtb.IN1
+a[0] => altb.IN1
+a[1] => x.IN0
+a[1] => agtb.IN1
+a[1] => altb.IN1
+a[2] => x.IN0
+a[2] => agtb.IN1
+a[2] => altb.IN1
+a[3] => x.IN0
+a[3] => agtb.IN0
+a[3] => altb.IN0
+b[0] => x.IN1
+b[0] => altb.IN1
+b[0] => agtb.IN1
+b[1] => x.IN1
+b[1] => altb.IN1
+b[1] => agtb.IN1
+b[2] => x.IN1
+b[2] => altb.IN1
+b[2] => agtb.IN1
+b[3] => x.IN1
+b[3] => altb.IN1
+b[3] => agtb.IN1
+aeqb << WideAnd0.DB_MAX_OUTPUT_PORT_TYPE
+agtb << agtb.DB_MAX_OUTPUT_PORT_TYPE
+altb << altb.DB_MAX_OUTPUT_PORT_TYPE
+
+

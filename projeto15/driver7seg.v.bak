@@ -1,0 +1,10 @@
+/*
+	driver7seg.v
+	Driver para o display de 7 segmentos
+*/
+
+module driver7seg ();
+
+	
+
+endmodule

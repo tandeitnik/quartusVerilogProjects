@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05/mux4x1.v
+source_file = 1, G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05/db/projeto05.cbx.xml
+design_name = mux4x1
+instance = comp, \f~output , f~output, mux4x1, 1
+instance = comp, \i[1]~input , i[1]~input, mux4x1, 1
+instance = comp, \i[3]~input , i[3]~input, mux4x1, 1
+instance = comp, \s[0]~input , s[0]~input, mux4x1, 1
+instance = comp, \i[2]~input , i[2]~input, mux4x1, 1
+instance = comp, \s[1]~input , s[1]~input, mux4x1, 1
+instance = comp, \i[0]~input , i[0]~input, mux4x1, 1
+instance = comp, \f~0 , f~0, mux4x1, 1
+instance = comp, \f~1 , f~1, mux4x1, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1

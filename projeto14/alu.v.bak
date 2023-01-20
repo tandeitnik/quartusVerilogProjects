@@ -1,0 +1,10 @@
+/*
+	alu.v
+	unidade lógica aritmética usando linguagem comportamental
+*/
+
+module alu ();
+
+	
+
+endmodule

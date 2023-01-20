@@ -1,0 +1,6 @@
+|projeto00
+a => u1.IN0
+b => u1.IN1
+led0 <= u1.DB_MAX_OUTPUT_PORT_TYPE
+
+

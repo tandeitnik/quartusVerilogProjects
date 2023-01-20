@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Jan 19 12:42:51 2023
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : alarmeCarro
+Top-level Entity Name : alarmeCarro
+Family : Cyclone IV E
+Total logic elements : 11
+    Total combinational functions : 11
+    Dedicated logic registers : 5
+Total registers : 5
+Total pins : 5
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

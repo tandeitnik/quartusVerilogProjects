@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05/simulation/modelsim
+vmux4x1
+!s110 1673703587
+!i10b 1
+!s100 Im9>fRYaI=:[WeH?_idAh1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I4>^1;O=c9Pi[M?TFeCJ5W0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1673703510
+8G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05/mux4x1.v
+FG:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05/mux4x1.v
+!i122 0
+L0 6 9
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1673703587.000000
+!s107 G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05/mux4x1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05|G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05/mux4x1.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto05}
+tCvgOpt 0

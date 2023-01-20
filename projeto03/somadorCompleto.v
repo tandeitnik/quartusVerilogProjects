@@ -1,0 +1,18 @@
+/*
+	somadorCompleto.v
+	
+	Somador completo feito usando assign
+	
+*/
+
+module somadorCompleto(a,b,cin,s,cout);
+
+	input a,b,cin;
+	output s,cout;
+	
+	//Abordagem por fluxo de dados - já irei relacionar as saídas diretamente com as entradas sem wires
+	
+	assign s = a ^ b ^ cin;
+	assign cout = a&b | a&cin | b&cin; //lembre que a precedência é NOT>AND>OR
+
+endmodule

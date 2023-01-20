@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto21/simulation/modelsim
+vmaquinaEstAlgoritmica
+!s110 1673979730
+!i10b 1
+!s100 ka[X7VX1g]<=R@4AAAzIY3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I?2K9Yh0ZQUIX<0o?G=i^J0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1673979673
+8G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto21/maquinaEstAlgoritmica.v
+FG:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto21/maquinaEstAlgoritmica.v
+!i122 0
+L0 1 46
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1673979730.000000
+!s107 G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto21/maquinaEstAlgoritmica.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto21|G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto21/maquinaEstAlgoritmica.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+G:/Meu Drive/Academia/PUC/pos_graduacao/FPGA/quartus/projeto21}
+tCvgOpt 0
+nmaquina@est@algoritmica

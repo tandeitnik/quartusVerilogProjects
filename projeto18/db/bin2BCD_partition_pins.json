@@ -1,0 +1,81 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "centenas[0]",
+					"strict" : false
+				},
+				{
+					"name" : "centenas[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dezenas[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dezenas[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dezenas[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dezenas[3]",
+					"strict" : false
+				},
+				{
+					"name" : "unidades[0]",
+					"strict" : false
+				},
+				{
+					"name" : "unidades[1]",
+					"strict" : false
+				},
+				{
+					"name" : "unidades[2]",
+					"strict" : false
+				},
+				{
+					"name" : "unidades[3]",
+					"strict" : false
+				},
+				{
+					"name" : "binary[7]",
+					"strict" : false
+				},
+				{
+					"name" : "binary[4]",
+					"strict" : false
+				},
+				{
+					"name" : "binary[6]",
+					"strict" : false
+				},
+				{
+					"name" : "binary[5]",
+					"strict" : false
+				},
+				{
+					"name" : "binary[3]",
+					"strict" : false
+				},
+				{
+					"name" : "binary[2]",
+					"strict" : false
+				},
+				{
+					"name" : "binary[1]",
+					"strict" : false
+				},
+				{
+					"name" : "binary[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

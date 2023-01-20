@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Jan 17 08:57:38 2023
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : testeDisplayClk
+Top-level Entity Name : testeDisplayClk
+Family : Cyclone IV E
+Total logic elements : 20
+    Total combinational functions : 14
+    Dedicated logic registers : 18
+Total registers : 18
+Total pins : 21
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto01/projeto01.v
+source_file = 1, G:/Meu Drive/Academia/PUC/pos_graduacao/FPGAstudies/quartus/projeto01/db/projeto01.cbx.xml
+design_name = projeto01
+instance = comp, \s~output , s~output, projeto01, 1
+instance = comp, \cout~output , cout~output, projeto01, 1
+instance = comp, \a~input , a~input, projeto01, 1
+instance = comp, \cin~input , cin~input, projeto01, 1
+instance = comp, \b~input , b~input, projeto01, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1
